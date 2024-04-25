@@ -9,7 +9,7 @@
     "skipLibCheck": true,
     "declaration": true,
     "declarationDir": "./dist/types",
-    "moduleResolution": "node"
+    "moduleResolution": "node16"
   },
   "include": ["src/**/*"]
 }
